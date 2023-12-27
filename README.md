@@ -1,4 +1,5 @@
 # text based Noise 연구실 버전 (집 버전이랑 비교 필요!!)
+## noise injection 하기전에 norm했기 때문에 noise injection시 안해도된다
 ---
 # SmallCap
 
